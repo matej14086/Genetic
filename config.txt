@@ -1,0 +1,4 @@
+python "G:\Matej\Documents\Genetski\build\example.py"
+2
+10
+10
